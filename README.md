@@ -16,5 +16,3 @@
 - 🌱 I’m currently learning more about GraphQL, TypeGraphQL, NextJS, Prisma, Netlify, Auth0, Figma, Storybook, and Cypress
 - 🤸 I’m looking for help with my open source [component library](https://github.com/featherweight-design/component-library)!
 - 💬 Ask me about the cross-section between development and design 💻 🎨
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hartiganhm)](https://github.com/anuraghazra/github-readme-stats)
