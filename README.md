@@ -3,7 +3,6 @@
 ### About Me
 
 - 😄 My pronouns are he/him/his
-- ♥️ Partner to [@jfargnoli01](https://github.com/jfargnoli01)
 - 🐻🦌 Proud papa to Torin and Juniper
 - 🦄 Native, fourth-generation Denverite
 - 🖌️ I like South Korean comtemporary art, The Ink Spots, baking butter-milk biscuits, xeriscaping, Bioshock, a Prayer for Owen Meany, and puppy cuddles
